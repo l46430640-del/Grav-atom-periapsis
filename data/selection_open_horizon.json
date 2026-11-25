@@ -1,0 +1,33 @@
+{
+  "scope": "Bare Coulomb outgoing s wave with leading horizon matching. A bound on h=1..16 within the interpolated grid, not on all physical horizon channels.",
+  "a_range": [
+    3.08,
+    3.27
+  ],
+  "e_range": [
+    0.001,
+    0.78
+  ],
+  "h1_h16_norm2_bound": 0.00013175179009590566,
+  "h9_h16_norm2_bound": 2.138407432716506e-07,
+  "point_checks": [
+    {
+      "a": 3.231,
+      "e": 0.105,
+      "vertex_relative_error": 3.681367270300163e-07,
+      "direct_tail_h17_h24_norm2": 1.70107410943866e-24
+    },
+    {
+      "a": 3.175,
+      "e": 0.552,
+      "vertex_relative_error": 3.8100779063267816e-07,
+      "direct_tail_h17_h24_norm2": 4.939651566846036e-12
+    },
+    {
+      "a": 3.119,
+      "e": 0.712,
+      "vertex_relative_error": 5.725176112692952e-06,
+      "direct_tail_h17_h24_norm2": 1.3670199751616864e-09
+    }
+  ]
+}

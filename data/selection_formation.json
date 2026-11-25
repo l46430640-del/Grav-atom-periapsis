@@ -1,0 +1,121 @@
+{
+  "scope": "Same isolated two-cloud history at two earlier stages. Finite stationary profile and pole recomputed at each stage. Fixed-orbit comparisons, not additional migrations.",
+  "stages": [
+    {
+      "ratio": 5.6,
+      "time_M0": 3.5584523757099884e+16,
+      "parameters": {
+        "cloud": 0.008681275617401524,
+        "alpha": 0.03937293218470909,
+        "spin": 0.15642822759600036
+      },
+      "daughter_parent_ratio": 0.0007883518474124827,
+      "a": 3.25,
+      "z": 0.08715556843599832,
+      "center_e": 0.6080928587599032,
+      "width_deg_at_center_e": 53.49957464527422,
+      "pole_frequency": 0.0008307382687952954,
+      "pole_width": 0.00012263305111766742,
+      "reference_offsets": {
+        "initial_angle_deg": 2.8647889756541165,
+        "delta_e": 0.008,
+        "e_range": [
+          0.5902691204050408,
+          0.6249526999939394
+        ],
+        "energy_depth": 0.005092476334792385,
+        "winding": 0.0,
+        "period": 17272.769902059525,
+        "nodal_rate": -2.4540885940331244e-05,
+        "libration": true,
+        "libration_action": 0.0006869162561502947,
+        "peak_offset_deg": 3.290273495025942,
+        "slow_ratio": 0.02990108263729758,
+        "unfiltered_ratio": 0.026954811402656372,
+        "carrier_fraction_coherent": 0.791894342850393,
+        "carrier_fraction_diagonal": 0.9964258990034748,
+        "refinement": 1.335436151522762e-07,
+        "time_domain_difference": 1.2180187414223553e-13
+      },
+      "moderate_offset": {
+        "initial_angle_deg": 20.0,
+        "delta_e": 0.0,
+        "e_range": [
+          0.4833891753519966,
+          0.6968517682976406
+        ],
+        "energy_depth": 0.18101938499135484,
+        "winding": 7.067899292141149e-17,
+        "period": 18541.341763461995,
+        "nodal_rate": -2.3499415384610795e-05,
+        "libration": true,
+        "libration_action": 0.02527532238664082,
+        "peak_offset_deg": 20.401330300440776,
+        "slow_ratio": 0.23783220435807118,
+        "unfiltered_ratio": 0.146199981929143,
+        "carrier_fraction_coherent": 0.09133972903388207,
+        "carrier_fraction_diagonal": 0.8709400251694623,
+        "refinement": 5.958307701670051e-07,
+        "time_domain_difference": 9.389836408413288e-10
+      }
+    },
+    {
+      "ratio": 5.1,
+      "time_M0": 3.777544739753361e+16,
+      "parameters": {
+        "cloud": 0.007914259619125223,
+        "alpha": 0.03939309091189952,
+        "spin": 0.156518704451466
+      },
+      "daughter_parent_ratio": 0.0007831737049689717,
+      "a": 3.25,
+      "z": 0.08715556843599832,
+      "center_e": 0.5761763670169631,
+      "width_deg_at_center_e": 50.87089440802061,
+      "pole_frequency": 0.0008266434715780965,
+      "pole_width": 0.0001227041561201374,
+      "reference_offsets": {
+        "initial_angle_deg": 2.8647889756541165,
+        "delta_e": 0.008,
+        "e_range": [
+          0.5580340440314105,
+          0.593340822916758
+        ],
+        "energy_depth": 0.005423085976572326,
+        "winding": 0.0,
+        "period": 20074.09002063785,
+        "nodal_rate": -2.0678919600309107e-05,
+        "libration": true,
+        "libration_action": 0.0006408570900000941,
+        "peak_offset_deg": 3.2767799894329914,
+        "slow_ratio": 0.027684462158593725,
+        "unfiltered_ratio": 0.025613065867128856,
+        "carrier_fraction_coherent": 0.8079983337119988,
+        "carrier_fraction_diagonal": 0.9968627029549203,
+        "refinement": 1.8724084099863703e-07,
+        "time_domain_difference": 1.6437198824270638e-13
+      },
+      "moderate_offset": {
+        "initial_angle_deg": 20.0,
+        "delta_e": 0.0,
+        "e_range": [
+          0.44831759337095606,
+          0.6670251488381408
+        ],
+        "energy_depth": 0.19438786502233427,
+        "winding": 7.067899292141149e-17,
+        "period": 21649.589705646107,
+        "nodal_rate": -1.9836498396501693e-05,
+        "libration": true,
+        "libration_action": 0.02383059698113218,
+        "peak_offset_deg": 20.468805445995017,
+        "slow_ratio": 0.21242974294572894,
+        "unfiltered_ratio": 0.1456581025041992,
+        "carrier_fraction_coherent": 0.09760942166197586,
+        "carrier_fraction_diagonal": 0.8832537487040386,
+        "refinement": 2.264633422177642e-07,
+        "time_domain_difference": 8.693989972385907e-12
+      }
+    }
+  ]
+}
