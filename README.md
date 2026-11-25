@@ -2,6 +2,8 @@
 
 Numerical archive for *How the Direction of Periapsis Controls Black Hole Absorption from a Boson Cloud*. The Letter compares two initially empty absorbing modes on orbits starting at arguments of periapsis of 93 and 150 degrees. Both orbits migrate from 3.25 to 3.10 gravitational Bohr radii. The horizon count is a fraction of the initial parent population.
 
+The code and numerical data are distributed under the [MIT License](LICENSE).
+
 ## Reading the results
 
 - [Migration summaries](data/selection_migrations.json) contain the initial conditions, endpoint counts and interference comparisons. In the run names, `3` and `60` are offsets from 90 degrees, `C` retains angular interference, `D` adds angular powers separately, and `zero` denotes an initially empty mode. The Letter compares two `C-zero` histories.
